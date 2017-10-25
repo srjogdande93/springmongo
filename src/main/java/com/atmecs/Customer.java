@@ -1,13 +1,7 @@
-/**
- * 
- */
+
 package com.atmecs;
 
-/**
- * @author Sumedh.Jogdande
- *
- */
 public class Customer {
-	
+	System.out.println("msg");
 		
 }
